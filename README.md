@@ -1,8 +1,8 @@
 ## Hi there 👋
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Adarsh Mishra 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/adarsh4489)
 
 ## About Me
 
@@ -14,13 +14,13 @@ I am a passionate frontend web developer with strong interest in building effici
 
 ## Projects
 
-### [Tech-Blog Frontend](https://github.com/adarsh4489/blog-webiste-frontend)
+### [Tech-Blog Frontend](https://tech-blog-by-ad4489.netlify.app/)
 A modern and responsive tech blog frontend built with React.js and Tailwind CSS, utilizing Context API for efficient state management.
 
-### [Weather application](https://github.com/adarsh4489/weather-app-using-JS)
+### [Weather application](https://weather-app-using-javascript-byad4489.netlify.app/)
 A good javascript is used in it. Please have a look. 
 
-### [](https://github.com/adarsh4489/Personal_Portflio)
+### [Personal Portfolio](https://adarsh-kumar-mishra-portfolio.netlify.app/)
 This project is my personal portfolio in which I had listed some of my good projects and my education.
 
 ## Achievements
