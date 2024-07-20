@@ -1,54 +1,31 @@
-## Hi there 👋
-# Hi there, I'm Adarsh Mishra 👋
+<h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/adarsh4489)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh4489&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh4489" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh4489" alt="adarsh4489" /></a> </p>
 
-I am a passionate frontend web developer with strong interest in building efficient and scalable applications. My primary focus is on front-end development, but I also enjoy exploring back-end technologies.
+- 🌱 I’m currently learning **React**
 
-- 🌟 **Skills**: JavaScript, Tailwind CSS, HTML, CSS
-- 🌱 **Currently Learning**: React js
-- 💼 **Looking for Opportunities**: Open to collaborating on interesting projects and available for remote work.
+- 👨‍💻 All of my projects are available at [https://adarsh-kumar-mishra-portfolio.netlify.app/](https://adarsh-kumar-mishra-portfolio.netlify.app/)
 
-## Projects
+- 💬 Ask me about **React ,HTML,CSS,JS,BOOTSTRAP,TAILWIND CSS,MY SQL**
 
-### [Tech-Blog Frontend](https://tech-blog-by-ad4489.netlify.app/)
-A modern and responsive tech blog frontend built with React.js and Tailwind CSS, utilizing Context API for efficient state management.
+- 📫 How to reach me **mishraadarshkumar2000@gmail.com**
 
-### [Weather application](https://weather-app-using-javascript-byad4489.netlify.app/)
-A good javascript is used in it. Please have a look. 
+- 📄 Know about my experiences [https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing](https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing)
 
-### [Personal Portfolio](https://adarsh-kumar-mishra-portfolio.netlify.app/)
-This project is my personal portfolio in which I had listed some of my good projects and my education.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adarsh-mishra-ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-mishra-ad" height="30" width="40" /></a>
+<a href="https://instagram.com/mishra_ad0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishra_ad0111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mishraad2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishraad2024" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ad4498/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ad4498/profile" height="30" width="40" /></a>
+</p>
 
-## Achievements
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- Qualified Google Codejam 2022.
-- Secured world rank 12738 (Round A) and 3868 (Round H) in Google Kickstart 2021.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&locale=en" alt="adarsh4489" /></p>
 
-## Coding Profiles
-
-- **[Geeks for Geeks](https://www.geeksforgeeks.org/user/ad4489/)**
-- **[LeetCode](https://leetcode.com/u/mishraad2024/)**
-
-## Contact
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or [email](mailto:youremail@example.com). Let's connect and collaborate!
-
-
-<!--
-**adarsh4489/adarsh4489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&" alt="adarsh4489" /></p>
