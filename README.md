@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img width="100%" height="400" alt="banner" src="https://i.pinimg.com/1200x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" />
+  
 </p>
 
 <!-- Intro Section -->
@@ -26,14 +27,18 @@
 [![GFG](https://img.shields.io/badge/-GFG-darkgreen?style=flat&logo=geeksforgeeks&link=https://auth.geeksforgeeks.org/user/ad4498/profile)](https://auth.geeksforgeeks.org/user/ad4498/profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/adarsh4489)](https://github.com/adarsh4489)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mishra_ad0111/)
-
-</td>
-<td width="40%" align="center">
-  <img src="https://avatars.githubusercontent.com/u/101172221?v=4" width="200px" style="border-radius: 20px;" /><br/><br/>
-  <a href="https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing" target="_blank">
+<br><br>
+<a href="https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-%230077B5?style=for-the-badge" alt="Resume Link"/>
   </a>
 </td>
+<td width="40%" align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1tFKeo5KHatcAchvOAv1TWszhKyv_c9p1"
+       width="250" style="border-radius: 20px;" />
+  
+</td>
+
+
   </tr>
 </table>
 
@@ -60,9 +65,10 @@ Always eager to explore new tools, contribute to exciting projects, and grow as 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" width="40%" />
 </p>
+
 
 ---
 
