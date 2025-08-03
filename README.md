@@ -1,27 +1,26 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="2000" height="700" alt="image" src="https://github.com/user-attachments/assets/50751f0c-150d-4605-8d7b-761810f634e6" />
-
+  <img width="100%" height="400" alt="banner" src="https://i.pinimg.com/1200x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" />
 </p>
 
 <!-- Intro Section -->
 <h2 align="center">👋 Hi, I'm <span style="color:#0ea5e9">Adarsh Mishra</span></h2>
-<p align="center"><b>Frontend Developer | MERN Stack Learner | Building clean, responsive, and user-friendly web apps</b></p>
+<p align="center"><b>Frontend Developer | MERN Stack Learner | Passionate about building cool and impactful web apps</b></p>
 
 ---
 
-<!-- About + Image Section -->
-<table>
+<!-- About + Image + Resume Section -->
+<table width="100%">
   <tr>
     <td valign="top" width="60%">
 
 🔭 Currently learning **Backend Development with Node.js and Express**  
-🛠️ Focused on full-stack web development using the **MERN** stack  
-🎯 I love creating interactive UIs and seamless user experiences  
+🛠️ Focused on full-stack development using the **MERN** stack  
+🎯 Dedicated to crafting clean code and delivering a smooth user experience  
 📬 Email: [mishraadarshkumar2000@gmail.com](mailto:mishraadarshkumar2000@gmail.com)  
 🌐 Portfolio: [adarsh-kumar-mishra-portfolio.netlify.app](https://adarsh-kumar-mishra-portfolio.netlify.app/)
 
-### 🔗 Connect with Me
+### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/adarsh-mishra-ad)](https://linkedin.com/in/adarsh-mishra-ad)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&link=https://leetcode.com/mishraad2024)](https://leetcode.com/mishraad2024)
 [![GFG](https://img.shields.io/badge/-GFG-darkgreen?style=flat&logo=geeksforgeeks&link=https://auth.geeksforgeeks.org/user/ad4498/profile)](https://auth.geeksforgeeks.org/user/ad4498/profile)
@@ -30,7 +29,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="[https://avatars.githubusercontent.com/u/101172221?v=4](https://drive.google.com/drive/folders/1BnerYIA7mmO3HsBjC7GuiqgHhKttDLEs)" width="200px" style="border-radius: 20px;" /><br/><br/>
+  <img src="https://avatars.githubusercontent.com/u/101172221?v=4" width="200px" style="border-radius: 20px;" /><br/><br/>
   <a href="https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-%230077B5?style=for-the-badge" alt="Resume Link"/>
   </a>
@@ -42,9 +41,11 @@
 
 ### 🌟 Profile Summary
 
-I'm a frontend developer passionate about building beautiful, scalable, and high-performance web applications. With a solid foundation in **React**, **Tailwind CSS**, and **JavaScript**, I’ve created multiple projects involving API integration, dynamic routing, interactive UI, and responsive layouts.
+Hi, I’m Adarsh — a detail-oriented frontend developer with a passion for building elegant, scalable, and responsive web apps. I specialize in crafting interactive UIs using **React**, **Tailwind CSS**, and **JavaScript** while embracing a clean code mindset.
 
-Currently diving deep into **Node.js**, **Express**, and **MongoDB** to complete my full-stack MERN journey. I'm constantly learning and improving my skills by building real-world applications and collaborating with like-minded developers. Clean code, great UX, and performance-first thinking define my approach to development.
+I’ve worked on dynamic projects involving APIs, user interaction, routing, animations, and mobile responsiveness. Currently diving deeper into **Node.js**, **Express**, and **MongoDB** to complete my full-stack journey. I thrive on continuous learning, team collaboration, and delivering great UX with performance in mind.
+
+Always eager to explore new tools, contribute to exciting projects, and grow as a developer in the modern web ecosystem.
 
 ---
 
@@ -67,7 +68,8 @@ Currently diving deep into **Node.js**, **Express**, and **MongoDB** to complete
 
 ### 🙌 Thanks for Visiting!
 
-Thanks for scrolling this far — it means a lot!  
-If my profile caught your interest, feel free to connect, collaborate, or just say hi.  
-I'm always open to learning, growing, and contributing to exciting projects. 🚀  
-Let’s build something **awesome** together! 😊
+Thank you for scrolling through my GitHub profile 🙌  
+If you found anything interesting, feel free to connect, collaborate, or just drop a “Hey”!  
+I'm open to learning new things, working on cool projects, and contributing to the developer community.  
+
+Let’s build something amazing together. 🚀✨  
