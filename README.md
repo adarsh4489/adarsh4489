@@ -1,9 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="100%" height="400" alt="banner" src="https://i.pinimg.com/1200x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" />
-  
+  <img width="100%" height="400" alt="banner" src="https://drive.google.com/uc?export=view&id=1sPdHKKIKufHoDRLOEFOkV3GJ5CzFwwiX" />
 </p>
-
 <!-- Intro Section -->
 <h2 align="center">👋 Hi, I'm <span style="color:#0ea5e9">Adarsh Mishra</span></h2>
 <p align="center"><b>Frontend Developer | MERN Stack Learner | Passionate about building cool and impactful web apps</b></p>
@@ -65,8 +63,8 @@ Always eager to explore new tools, contribute to exciting projects, and grow as 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" width="48%" />
 </p>
 
 
