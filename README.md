@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Banner Image -->
+<p align="center">
+  <img width="2000" height="700" alt="image" src="https://github.com/user-attachments/assets/50751f0c-150d-4605-8d7b-761810f634e6" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh4489&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh4489" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh4489" alt="adarsh4489" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://adarsh-kumar-mishra-portfolio.netlify.app/](https://adarsh-kumar-mishra-portfolio.netlify.app/)
-
-- 💬 Ask me about **React ,HTML,CSS,JS,BOOTSTRAP,TAILWIND CSS,MY SQL**
-
-- 📫 How to reach me **mishraadarshkumar2000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing](https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarsh-mishra-ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-mishra-ad" height="30" width="40" /></a>
-<a href="https://instagram.com/mishra_ad0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishra_ad0111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mishraad2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishraad2024" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ad4498/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ad4498/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Intro Section -->
+<h2 align="center">👋 Hi, I'm <span style="color:#0ea5e9">Adarsh Mishra</span></h2>
+<p align="center"><b>Frontend Developer | MERN Stack Learner | Building clean, responsive, and user-friendly web apps</b></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&locale=en" alt="adarsh4489" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&" alt="adarsh4489" /></p>
+<!-- About + Image Section -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+🔭 Currently learning **Backend Development with Node.js and Express**  
+🛠️ Focused on full-stack web development using the **MERN** stack  
+🎯 I love creating interactive UIs and seamless user experiences  
+📬 Email: [mishraadarshkumar2000@gmail.com](mailto:mishraadarshkumar2000@gmail.com)  
+🌐 Portfolio: [adarsh-kumar-mishra-portfolio.netlify.app](https://adarsh-kumar-mishra-portfolio.netlify.app/)
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/adarsh-mishra-ad)](https://linkedin.com/in/adarsh-mishra-ad)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&link=https://leetcode.com/mishraad2024)](https://leetcode.com/mishraad2024)
+[![GFG](https://img.shields.io/badge/-GFG-darkgreen?style=flat&logo=geeksforgeeks&link=https://auth.geeksforgeeks.org/user/ad4498/profile)](https://auth.geeksforgeeks.org/user/ad4498/profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/adarsh4489)](https://github.com/adarsh4489)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mishra_ad0111/)
+
+</td>
+<td width="40%" align="center">
+  <img src="[https://avatars.githubusercontent.com/u/101172221?v=4](https://drive.google.com/drive/folders/1BnerYIA7mmO3HsBjC7GuiqgHhKttDLEs)" width="200px" style="border-radius: 20px;" /><br/><br/>
+  <a href="https://drive.google.com/file/d/16VPA7xAviJskO4VfddkB0DkHx7DhD7Ks/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-%230077B5?style=for-the-badge" alt="Resume Link"/>
+  </a>
+</td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Profile Summary
+
+I'm a frontend developer passionate about building beautiful, scalable, and high-performance web applications. With a solid foundation in **React**, **Tailwind CSS**, and **JavaScript**, I’ve created multiple projects involving API integration, dynamic routing, interactive UI, and responsive layouts.
+
+Currently diving deep into **Node.js**, **Express**, and **MongoDB** to complete my full-stack MERN journey. I'm constantly learning and improving my skills by building real-world applications and collaborating with like-minded developers. Clean code, great UX, and performance-first thinking define my approach to development.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,redux,reactrouter,nodejs,express,mongodb,postman,git,github,vscode,babel,vite,cpp,replit,framer" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" />
+</p>
+
+---
+
+### 🙌 Thanks for Visiting!
+
+Thanks for scrolling this far — it means a lot!  
+If my profile caught your interest, feel free to connect, collaborate, or just say hi.  
+I'm always open to learning, growing, and contributing to exciting projects. 🚀  
+Let’s build something **awesome** together! 😊
