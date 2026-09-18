@@ -62,10 +62,10 @@ Always eager to explore new tools, contribute to exciting projects, and grow as 
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh4489&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4489&theme=tokyonight" width="48%" />
-</p>
+</p> -->
 
 
 ---
